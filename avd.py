@@ -17,7 +17,7 @@ proxies = []
 def handle_start(message):
     chat_id = message.chat.id
     response_message = '''
-    hello user dev by fyuman @HydraBotNet pm : @RealmeAgent
+    hello user dev by fyuman @HydraC2 pm : @RealmeAgent
 
     Введите /stop, чтобы остановить атаку.
 
